@@ -17,3 +17,35 @@ font-size: 18px;
 text-align: center;
 
 }
+
+#page
+
+{
+
+max-width:800px;
+
+margin: 20px auto;
+
+padding: 30px;
+
+background-color: violet;
+
+}
+#header /* Styles for Heading */
+
+{
+
+padding: 5px;
+
+background-color: lightblue;
+
+text-align: center;
+
+}
+img
+
+{
+
+border: double 10px black;
+
+}
